@@ -8,7 +8,9 @@ GET NOW: https://wasender-software.com
 
 The All-in-one Software you were searching...
 Say goodbye to a lot of softwares for doing each and every task. One software and you are good to go now!<br><br>
-GET NOW: https://wasender-software.com
+
+## Changelog WASender - Latest update
+Link: https://wasender-software.com/download
 
 ## Unlocking Business Growth with WASender Software
 
